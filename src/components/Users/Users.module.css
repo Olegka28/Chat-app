@@ -1,0 +1,26 @@
+.users_content{
+    width: 80%;
+    max-width: 1050px;
+    max-height: 100%;
+    overflow: hidden;
+}
+
+.userPhoto {
+    width: 100px;
+    height: 100px;
+}
+
+.selectedPage {
+    font-weight: bold;
+    padding: 4px;
+    color: gold;
+}
+
+.number span{
+    padding: 2px;
+}
+
+
+.number:hover {
+    cursor: pointer;
+}
